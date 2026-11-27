@@ -4,8 +4,14 @@ YOLO
 
 This change was made by Jay.
 
-NEWLINE BY BEN
 
-hi
+## Project Information
 
-NEW BRANCH! 
+Version: 1
+
+This project is used for Git practice.
+We are learning how to collaborate.
+
+## Login Feature
+
+Status: Not started
