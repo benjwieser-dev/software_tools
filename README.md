@@ -7,7 +7,7 @@ This change was made by Jay.
 
 ## Project Information
 
-Version: 1
+Version: 2
 
 This project is used for Git practice.
 We are learning how to collaborate.
